@@ -1,0 +1,84 @@
+/* Header */
+.heading {
+    height: 90px;
+    background-color: #8c2c29; /* Change background color */
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border-radius: 0 0 20px 20px; /* Add rounded corners to the bottom */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add shadow for depth */
+}
+
+.main-heading {
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    color: #ffffff;
+    padding-left: 20px;
+}
+
+/* Body */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f3f3f3; /* Change background color */
+}
+
+.container {
+    max-width: 1300px;
+    padding: 70px 10px 0;
+    background-color: #ffffff;
+    overflow-y: auto;
+    margin-top: 30px;
+    border-radius: 20px; /* Add rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
+}
+
+/* Title */
+.title {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+/* Additional styling */
+.left-heading,
+.right-heading,
+.right-bottom-heading {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+.left-heading {
+    text-align: left;
+}
+
+/* Right heading */
+.right-heading {
+    text-align: right; /* Align text to the right */
+}
+
+/* Right bottom heading */
+.right-bottom-heading {
+    text-align: right; /* Align text to the right */
+}
+
+
+.png {
+    padding-top: 40px;
+}
+
+.description{
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
