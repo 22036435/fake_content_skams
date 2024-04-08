@@ -7,7 +7,9 @@ This project undertakes a comprehensive examination of hate speech across variou
 ## Objectives
 
 To Define and Map Hate Speech: Identify the contours of hate speech, understand its distribution, and analyze its effects with precision.
+
 To Promote Inclusive Digital Spaces: Utilize the insights gained to encourage digital environments that support open and respectful discourse.
+
 To Understand Bias and Context in Hate Speech: Investigate how biases and various contexts contribute to hate speech, particularly focusing on gender biases and regional specificities.
 
 ## Methodology
@@ -15,12 +17,15 @@ To Understand Bias and Context in Hate Speech: Investigate how biases and variou
 The research employs rigorous analytical methods to scrutinize hate speech, aiming to develop a nuanced approach to mitigating its effects in digital spaces. It emphasizes:
 
 Critical Examination of Hate Speech: Exploring definitions, patterns, and the multifaceted nature of hate speech across different digital platforms.
+
 Bias and Context Analysis: Identifying and dissecting the biases and contextual elements that inform hate speech, with a special focus on its impact on women.
 
 ## Resources
 
 Analysis Portfolio: Explore our findings and analytical methodologies [here](https://hate-speech-context-anlaysis-60au6z96u-22036435s-projects.vercel.app).
+
 Analysis Report: Access our detailed analysis report on hate speech datasets [here](https://www.notion.so/Social-Data-Analysis-on-Hate-Speech-Datasets-339d30c14a084020b9d3bbeba3d7a680?pvs=4).
+
 Data Bias Essay: Read our essay on data bias and its implications for hate speech analysis [here](https://www.notion.so/Data-Bias-01186b3e2efe4f90863ff9849ffb5ec7?pvs=4).
 
 ## Impact and Contributions
